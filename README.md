@@ -1,4 +1,4 @@
-## QuantumChat
+### QuantumChat
 **Description**: QuantumChat is a cutting-edge chat application that leverages the power of quantum computing to provide secure, fast, and truly random communication.
 
 # Features
